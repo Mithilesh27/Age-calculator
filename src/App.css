@@ -1,0 +1,21 @@
+.age-calculator{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+button{
+  background-color: rgb(82, 82, 226);
+  padding:10px;
+  margin: 5px;
+  border: 1px solid black;
+  border-radius:8px ;
+  cursor: pointer;
+  color: white;
+}
+p{
+  font-size: large;
+  font-weight: bold;
+
+}
